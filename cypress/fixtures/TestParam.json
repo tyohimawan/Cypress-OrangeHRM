@@ -1,0 +1,13 @@
+{
+    "baseURL": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+    "username": "Admin",
+    "password": "admin123",
+    "firstName": "Paul",
+    "lastName": "Walkers",
+    "street": "Abbey Road",
+    "city": "Britain",
+    "otherEmail": "ff9@example.com",
+    "fromDate": "2023-11-10",
+    "toDate": "2023-11-13",
+    "name": "Paul"
+}
